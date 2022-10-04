@@ -1,0 +1,4 @@
+lui t0, 0xABCDE
+addi t0, t0, 0x7FF
+lui t0, 0x32
+addi t0, t0, 0x32
