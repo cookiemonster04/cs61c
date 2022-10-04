@@ -1,4 +1,4 @@
-# su21-proj2-starter
+# ANN
 
 ```
 .
@@ -26,3 +26,4 @@
 
 
 ## Here's what I did in project 2:
+Implemented ReLU activation function, argmax, dot product, and matrix multiplication in RISC-V assembly.
